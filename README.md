@@ -12,5 +12,5 @@
 - Aws Certified Cloud Practitioner https://www.credly.com/badges/fe3e8b23-22e4-4440-b35d-4175ba67a81a/public_url
 
 <h2> 🤳 Connect with me:</h2>
-
+www.linkedin.com/in/rodrick-cheatham-a7b0361a3
 
