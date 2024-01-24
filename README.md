@@ -3,6 +3,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/RodrickC2/Active-Directory-Project)
+  - [Elastic SIEM Home lab](https://github.com/RodrickC2/Elastic-SIEM-Project/blob/main/README.md)
 
 <h2>Certifications</h2>
 
